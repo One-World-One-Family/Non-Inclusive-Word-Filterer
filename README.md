@@ -1,4 +1,4 @@
-# Non-Inclusive Word Filter 🔍
+# Non-Inclusive Word Filterer 🔍
 
 ## Introduction
 This is a small python script which scans code bases for non inclusive words and outputs a csv report of their usages to increase diversity and inclusiveness in codebases. 
@@ -29,7 +29,7 @@ Everyone is welcome to contribute.
 2. You can either work on an open issue or open an issue and work on it. 
 3. issues can also be discussed on our Zulip Channel.
 
-***PS**: This code might not be 100% accurate and could only be able to provide a rough conversion. please raise issues for corrections.*
+
 
 ## Sample CSV output
 
@@ -57,3 +57,6 @@ It's unlikely, but if you were expecting to find occurrences but did not, it's p
 #### Ripgrep References  
 
 [https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md)
+
+
+***PS**: This code might not be 100% accurate. please raise issues for corrections.*
